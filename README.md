@@ -15,7 +15,6 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Program:
 ```
-/*
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
@@ -56,7 +55,7 @@ pre = scaler.inverse_transform(prediction)
 print(prediction)
 print(f"Predicted value:{pre}")
 
-
+/*
 Developed by: ABDUR RAHMAN BASIL A H
 RegisterNumber:  212223040002
 */
