@@ -8,14 +8,18 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-#### 1. Initialize Parameters
-#### 2. Create Feature Matrix
-#### 3. Calculate Predictions
-#### 4. Calculate Errors
-#### 5. Update Weights
-#### 6. Repeat
+#### Step 1: Initialize Parameters
+#### Step 2: Create Feature Matrix
+#### Step 3: Calculate Predictions
+#### Step 4: Calculate Errors
+#### Step 5: Update Weights
+#### Step 6: Repeat
 
 ## Program:
+```
+Developed by: ABDUR RAHMAN BASIL A H
+RegisterNumber:  212223040002
+```
 ```
 import numpy as np
 import pandas as pd
@@ -57,14 +61,16 @@ pre = scaler.inverse_transform(prediction)
 print(prediction)
 print(f"Predicted value:{pre}")
 
-/*
-Developed by: ABDUR RAHMAN BASIL A H
-RegisterNumber:  212223040002
-*/
 ```
 
 ## Output:
-![image](https://github.com/arbasil05/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144218037/1685bada-dd26-4e63-8b95-732a7c6defdf)
+#### Scaled Values and Predicted Output:
+![image](https://github.com/arbasil05/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144218037/b7a7d5f9-e54d-4ebb-a89d-30f4251a7c44)
+![image](https://github.com/arbasil05/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144218037/8eb9eab3-69a4-405f-a388-e1c97fee3635)
+![image](https://github.com/arbasil05/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144218037/f5e874b2-af03-4aeb-8898-e589379bb231)
+
+
+
 
 
 
