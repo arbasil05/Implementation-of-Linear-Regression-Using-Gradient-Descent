@@ -8,12 +8,14 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-#### Step 1: Initialize Parameters
-#### Step 2: Create Feature Matrix
-#### Step 3: Calculate Predictions
-#### Step 4: Calculate Errors
-#### Step 5: Update Weights
-#### Step 6: Repeat
+#### Step 1: Start
+#### Step 2: Initialize Parameters
+#### Step 3: Create Feature Matrix
+#### Step 4: Calculate Predictions
+#### Step 5: Calculate Errors
+#### Step 6: Update Weights
+#### Step 7: Repeat
+#### Step 8: Stop
 
 ## Program:
 ```
